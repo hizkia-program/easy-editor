@@ -1,2 +1,2 @@
-# easy-editor
-adobe illustrator lite
+# ping-pong-game
+game ping pong
